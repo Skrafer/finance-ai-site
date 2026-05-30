@@ -165,6 +165,54 @@
       </div>
     </section>
 
+    <section class="section code-security">
+      <div class="section-head">
+        <p class="eyebrow">Информационная защита</p>
+        <h2>Внутри сервиса заложена логика безопасной работы</h2>
+        <p>
+          Приложение работает с финансовой информацией, поэтому защита данных и
+          осторожная обработка действий пользователя являются отдельной частью продукта.
+          Ассистент не только анализирует бюджет, но и следит, чтобы важные операции
+          сопровождались проверками и понятными предупреждениями.
+        </p>
+      </div>
+
+      <div class="security-code-grid">
+        <article class="code-panel">
+          <div class="code-header">
+            <span></span><span></span><span></span>
+            <strong>security-check.js</strong>
+          </div>
+          <pre><code>const operation = scanTransaction(userAction);
+
+if (operation.isSuspicious) {
+  showWarning("Проверьте операцию перед подтверждением");
+}
+
+protectData({
+  encryption: true,
+  privateMode: true,
+  riskAlerts: true
+});</code></pre>
+        </article>
+
+        <div class="protection-list">
+          <article>
+            <h3>Защита финансовых данных</h3>
+            <p>Данные пользователя рассматриваются как конфиденциальные: доступ к ним должен быть ограничен и защищен.</p>
+          </article>
+          <article>
+            <h3>Предупреждения о рисках</h3>
+            <p>Подозрительные операции, резкие траты и перегруз бюджета подсвечиваются до того, как проблема станет критичной.</p>
+          </article>
+          <article>
+            <h3>Понятные уведомления</h3>
+            <p>Система объясняет риск простым языком, чтобы пользователь мог спокойно принять решение.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <section class="section finale">
       <div>
         <p class="eyebrow">Итог</p>
