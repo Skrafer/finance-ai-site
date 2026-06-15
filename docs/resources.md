@@ -7,7 +7,7 @@
 - [MDN Web Docs: CSS](https://developer.mozilla.org/ru/docs/Web/CSS)
 - [MDN Web Docs: JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Git documentation](https://git-scm.com/doc)
-- [GitHub Pages documentation](https://docs.github.com/pages)
+- [GitHub Pages](https://docs.github.com/pages)
 
 ## Тематика проекта
 
@@ -19,4 +19,4 @@
 
 ## Использование ресурсов
 
-Ресурсы применялись для понимания принципов верстки, оформления статического сайта, публикации проекта и подготовки документации в Markdown.
+Ресурсы использовались при верстке страниц, оформлении сайта, публикации проекта и подготовке документации.
