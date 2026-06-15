@@ -21,10 +21,13 @@
 - [Команда](docs/team.md)
 - [Журнал работы](docs/journal.md)
 - [Полезные ресурсы](docs/resources.md)
-- [Отчет по проектной практике](report/practice-report.md)
-- [Описание папки report](report/README.md)
+- [Отчетная документация](report/README.md)
+- [Основной отчет по практике](report/practice-report.md)
+- [Технический отчет](report/technical-report.md)
+- [Отчет по командной работе](report/team-report.md)
+- [Итоговый отчет](report/final-report.md)
 
-В папке `report` находится отчет в двух форматах: текстовая версия для репозитория и файл Word.
+В папке `report` находится комплект отчетных материалов по проектной практике.
 
 ## Запуск проекта
 
