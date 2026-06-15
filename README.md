@@ -16,6 +16,11 @@
 
 Основная документация добавлена в Markdown:
 
+- [Документация проекта](docs/README.md)
+- [Описание проекта](docs/project.md)
+- [Команда](docs/team.md)
+- [Журнал работы](docs/journal.md)
+- [Полезные ресурсы](docs/resources.md)
 - [Отчет по проектной практике](report/practice-report.md)
 - [Описание папки report](report/README.md)
 
